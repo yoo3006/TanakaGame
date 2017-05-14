@@ -3,6 +3,7 @@ Library/
 Temp/
 Obj/
 Build/
+EXE/
 
 # Visual Studio / MonoDevelop generated ---------------------------------------
 ExportedObj/
