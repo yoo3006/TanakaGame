@@ -1,0 +1,36 @@
+# Unity generated --------------------------------------------------------------
+Library/
+Temp/
+Obj/
+Build/
+
+# Visual Studio / MonoDevelop generated ---------------------------------------
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity3D generated meta files -------------------------------------------------
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports --------------------------------------
+sysinfo.txt
+
+Assets/SimpleSQL/Plugins/SimpleSQL_Runtime/SimpleSQL_Runtime.csproj.meta
